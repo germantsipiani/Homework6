@@ -1,0 +1,28 @@
+.head{
+    width: auto;
+    height: 191px;
+    background-color: aliceblue;
+  
+    padding: 69px 0 69px 162px;
+     
+
+}
+.div{
+    width: 912px;
+    height: 53px;
+    display: flex;
+    
+
+}
+.li-item{
+    display: inline-block;
+}
+
+
+.li-item-div{
+    width: 564px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
